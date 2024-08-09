@@ -1,2 +1,2 @@
-# gatsby_netlify_test
-Test deploy Gatsby site on Netlify 
+# netlify_test
+Test deploy static site on Netlify 
